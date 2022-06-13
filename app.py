@@ -8,9 +8,9 @@ def index():
 
 
 
-@app.route("/abolfazl")
+@app.route("/testrot")
 def sis():
-    return render_template("samanhe.html")
+    return render_template("index1.html")
 
 
 
